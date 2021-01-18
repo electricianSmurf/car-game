@@ -1,0 +1,28 @@
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\car racing game.exe.config
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\car racing game.exe
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\car racing game.pdb
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.csprojResolveAssemblyReference.cache
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car_racing_game.Form1.resources
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car_racing_game.Properties.Resources.resources
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.csproj.GenerateResource.Cache
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.exe
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.pdb
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Yücel\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.csproj.ResolveComReference.cache
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\car racing game.exe.config
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\Interop.WMPLib.dll
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.csproj.ResolveComReference.cache
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.exe
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.pdb
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\car racing game.exe
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\car racing game.pdb
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\Interop.WMPLib.dll
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car_racing_game.Form1.resources
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car_racing_game.Properties.Resources.resources
+C:\Users\R\Desktop\VStudio projects\car racing game\car racing game\obj\Debug\car racing game.csproj.GenerateResource.Cache
